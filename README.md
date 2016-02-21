@@ -1,2 +1,2 @@
 # Bobventure
-VS project
+VS project - 2D platformer game
